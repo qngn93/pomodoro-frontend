@@ -1,0 +1,10 @@
+/* src/styles/global.css */
+button {
+  margin: 10px;
+  padding: 10px 20px;
+}
+body {
+  color: rgb(var(--foreground-rgb));
+  background-color: #ffdddd; /* Light red background */
+  /* Other existing styles */
+}
